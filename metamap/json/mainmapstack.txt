@@ -1,0 +1,65 @@
+[
+    {
+        "lat0": 28.6023,
+        "lon0": -81.2002,
+        "name0": "UCF Circle center",
+        "lat1": 28.599789,
+        "lon1": -81.197894,
+        "name1": "physics building",
+        "hashtag": "#UCF",
+        "unitfeet": 400,
+        "unitname": "133 yards",
+        "xydigits": 1,
+        "latlondigits": 4,
+        "url": {
+            "this": "http://lafelabs.org/metamap/",
+            "code": "http://lafelabs.org/metamap/html/index.txt",
+            "json": "http://lafelabs.org/metamap/json/mainmapstack.txt",
+            "image": "https://i.imgur.com/Q8BOefb.jpg",
+            "tale": "",
+            "lore": ""
+        }
+    },
+    {
+        "lat0": 28.6023,
+        "lon0": -81.2002,
+        "name0": "UCF Circle center",
+        "lat1": 28.603393,
+        "lon1": -81.20018,
+        "name1": "top of inner circle",
+        "hashtag": "#UCF",
+        "unitfeet": 400,
+        "unitname": "133 yards",
+        "xydigits": 1,
+        "latlondigits": 4,
+        "url": {
+            "this": "http://lafelabs.org/metamap/",
+            "code": "http://lafelabs.org/metamap/html/index.txt",
+            "json": "http://lafelabs.org/metamap/json/mainmapstack.txt",
+            "image": "https://i.imgur.com/Q8BOefb.jpg",
+            "tale": "",
+            "lore": ""
+        }
+    },
+    {
+        "lat0": 28.6023,
+        "lon0": -81.2002,
+        "name0": "UCF Circle center",
+        "lat1": 28.605645,
+        "lon1": -81.200087,
+        "name1": "top of third circle",
+        "hashtag": "#UCF",
+        "unitfeet": 400,
+        "unitname": "133 yards",
+        "xydigits": 1,
+        "latlondigits": 4,
+        "url": {
+            "this": "http://lafelabs.org/metamap/",
+            "code": "http://lafelabs.org/metamap/html/index.txt",
+            "json": "http://lafelabs.org/metamap/json/mainmapstack.txt",
+            "image": "https://i.imgur.com/Q8BOefb.jpg",
+            "tale": "",
+            "lore": ""
+        }
+    }
+]
